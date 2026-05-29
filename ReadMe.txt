@@ -1,4 +1,9 @@
-Raw data of simulation results (exported from Cadence Virtuoso in .csv format) is arranged in separate folders as follows:
+RMIT University
+PhD Thesis: Optimising Power-Delay Performance in SOI-based Null Convention Logic using Forward Body Biasing
+Author: Nguyen Le Huy (ORCID: 0000-0001-8212-0185)
+
+This repo stores raw data of simulation results exported from Cadence Virtuoso Spectre Analog ADE in .csv format.
+The data is arranged in separate folders as follows:
 
 c3_LVT_MOSFETs   --> Chapter 3: FDSOI Transistors
 c3_LVT_INVERTERs --> Chapter 3: FDSOI Inverter
