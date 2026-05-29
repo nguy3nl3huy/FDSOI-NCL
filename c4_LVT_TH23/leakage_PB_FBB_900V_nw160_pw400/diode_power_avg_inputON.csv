@@ -1,0 +1,6 @@
+FBBP_var ,diode_power_avg PB_var 0 FBBN_var 0 ,diode_power_avg PB_var 0 FBBN_var 0.45 ,diode_power_avg PB_var 0 FBBN_var 0.9 ,diode_power_avg PB_var 0 FBBN_var 1.35 ,diode_power_avg PB_var 0 FBBN_var 1.8 ,diode_power_avg PB_var 8e-09 FBBN_var 0 ,diode_power_avg PB_var 8e-09 FBBN_var 0.45 ,diode_power_avg PB_var 8e-09 FBBN_var 0.9 ,diode_power_avg PB_var 8e-09 FBBN_var 1.35 ,diode_power_avg PB_var 8e-09 FBBN_var 1.8 ,diode_power_avg PB_var 1.6e-08 FBBN_var 0 ,diode_power_avg PB_var 1.6e-08 FBBN_var 0.45 ,diode_power_avg PB_var 1.6e-08 FBBN_var 0.9 ,diode_power_avg PB_var 1.6e-08 FBBN_var 1.35 ,diode_power_avg PB_var 1.6e-08 FBBN_var 1.8 
+-1.800,12.51E-9,14.85E-9,21.53E-9,40.44E-9,92.85E-9,2.972E-9,5.306E-9,11.98E-9,30.89E-9,83.27E-9,2.008E-9,4.342E-9,11.02E-9,29.92E-9,82.30E-9
+-1.350,6.164E-9,8.499E-9,15.17E-9,34.08E-9,86.47E-9,2.127E-9,4.461E-9,11.13E-9,30.04E-9,82.42E-9,1.766E-9,4.100E-9,10.77E-9,29.68E-9,82.06E-9
+-900.0E-3,3.491E-9,5.825E-9,12.50E-9,31.41E-9,83.79E-9,1.812E-9,4.146E-9,10.82E-9,29.73E-9,82.10E-9,1.680E-9,4.014E-9,10.69E-9,29.59E-9,81.97E-9
+-450.0E-3,2.386E-9,4.720E-9,11.39E-9,30.30E-9,82.68E-9,1.695E-9,4.029E-9,10.70E-9,29.61E-9,81.98E-9,1.650E-9,3.984E-9,10.66E-9,29.56E-9,81.94E-9
+0.000,1.933E-9,4.267E-9,10.94E-9,29.85E-9,82.22E-9,1.652E-9,3.986E-9,10.66E-9,29.57E-9,81.94E-9,1.640E-9,3.974E-9,10.65E-9,29.55E-9,81.93E-9

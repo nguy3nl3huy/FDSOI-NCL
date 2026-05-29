@@ -1,0 +1,6 @@
+FBBP_var ,static_power_avg PB_var 0 FBBN_var 0 ,static_power_avg PB_var 0 FBBN_var 0.45 ,static_power_avg PB_var 0 FBBN_var 0.9 ,static_power_avg PB_var 0 FBBN_var 1.35 ,static_power_avg PB_var 0 FBBN_var 1.8 ,static_power_avg PB_var 8e-09 FBBN_var 0 ,static_power_avg PB_var 8e-09 FBBN_var 0.45 ,static_power_avg PB_var 8e-09 FBBN_var 0.9 ,static_power_avg PB_var 8e-09 FBBN_var 1.35 ,static_power_avg PB_var 8e-09 FBBN_var 1.8 ,static_power_avg PB_var 1.6e-08 FBBN_var 0 ,static_power_avg PB_var 1.6e-08 FBBN_var 0.45 ,static_power_avg PB_var 1.6e-08 FBBN_var 0.9 ,static_power_avg PB_var 1.6e-08 FBBN_var 1.35 ,static_power_avg PB_var 1.6e-08 FBBN_var 1.8 
+-1.800,474.5E-9,475.4E-9,478.4E-9,486.3E-9,505.9E-9,472.0E-9,469.8E-9,467.9E-9,467.7E-9,471.9E-9,480.7E-9,478.2E-9,475.3E-9,473.1E-9,473.2E-9
+-1.350,467.0E-9,466.3E-9,467.3E-9,472.8E-9,489.4E-9,468.5E-9,465.6E-9,462.9E-9,461.7E-9,464.6E-9,475.6E-9,472.6E-9,469.4E-9,466.8E-9,466.1E-9
+-900.0E-3,462.7E-9,460.9E-9,460.7E-9,464.6E-9,479.0E-9,464.6E-9,461.3E-9,458.2E-9,456.4E-9,458.5E-9,469.1E-9,466.7E-9,463.6E-9,460.8E-9,459.9E-9
+-450.0E-3,459.5E-9,457.0E-9,456.0E-9,459.0E-9,472.1E-9,459.0E-9,456.7E-9,453.7E-9,451.8E-9,453.6E-9,407.9E-9,419.6E-9,429.1E-9,435.9E-9,441.3E-9
+0.000,456.6E-9,453.7E-9,452.3E-9,454.8E-9,467.3E-9,369.9E-9,391.2E-9,401.6E-9,411.1E-9,421.7E-9,155.0E-9,163.9E-9,179.9E-9,204.4E-9,237.0E-9
