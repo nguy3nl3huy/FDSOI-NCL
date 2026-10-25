@@ -1,0 +1,19 @@
+The corner is set by changing the section declaration in the following two lines of the file "corner.scs".
+TT --> FF (Fast NMOS Fast PMOS), FS (Fast Slow), SF (Slow Fast), SS (Slow Slow)
+
+
+
+
+------------------ File corner.scs ---------------------------------------------------------------------------------
+...
+...
+// ------------------------------------------------------
+// Models Library Files References
+// ------------------------------------------------------
+...
+include "$PDKITROOT/DATA/MODELS/SPECTRE/CORNERS/common_feol.scs" section=TT
+include "$PDKITROOT/DATA/MODELS/SPECTRE/CORNERS/common_fet.scs" section=TT
+...
+...
+...
+------------------ File corner.scs ---------------------------------------------------------------------------------
